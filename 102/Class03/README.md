@@ -8,3 +8,4 @@ If you would like to pull or receive new data from your new upload or your partn
 
 # git pull[remote-name][branch-name]
 
+## Things I want to know more about
