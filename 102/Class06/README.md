@@ -10,8 +10,8 @@ Var and let keywords are the most used and can change values.
 On the other hand, const is short for constant and its value never change.
 
   let name = fredrick;
-  var name = fredrick
-  const name = fredrick 
+  var name = fredrick;
+  const name = fredrick; 
 
 
    ## Things I want to know more about
