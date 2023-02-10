@@ -13,4 +13,4 @@ Professional Competency Self-Assessment = [https://github.com/Codingmasterfred/g
 
 Read: 03 - Revisions and the Cloud = [https://github.com/Codingmasterfred/reading-notes/tree/main/102/Class03#readme]
 
-Read: 04 - Structure web pages with HTML
+Read: 04 - Structure web pages with HTML = [https://github.com/Codingmasterfred/reading-notes/blob/627f1df18ce33e12bd7bb667bbf50e57325ea6e1/102/Class04/README.md]
