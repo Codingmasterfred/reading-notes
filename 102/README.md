@@ -17,6 +17,6 @@ Read: 04 - Structure web pages with HTML = [https://github.com/Codingmasterfred/
 
 Read: 05 - Design web pages with CSS = [https://github.com/Codingmasterfred/reading-notes/blob/88d17964f0abb59c0fae2910d693c43f1fb6b64d/102/Class05/README.md]
 
-Read: 06 - Dynamic web pages with JavaScript = []
+Read: 06 - Dynamic web pages with JavaScript = [https://github.com/Codingmasterfred/reading-notes/blob/baed9eb8c75399ced63e88d8834749eb679042db/102/Class06/README.md]
 
 
