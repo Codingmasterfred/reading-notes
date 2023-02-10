@@ -15,5 +15,8 @@ Read: 03 - Revisions and the Cloud = [https://github.com/Codingmasterfred/readin
 
 Read: 04 - Structure web pages with HTML = [https://github.com/Codingmasterfred/reading-notes/blob/627f1df18ce33e12bd7bb667bbf50e57325ea6e1/102/Class04/README.md]
 
-Read: 05 - Design web pages with CSS = [https://github.com/Codingmasterfred/reading-notes/commit/ebb875ce8005112ab95a6df4159063fec93f8256]
+Read: 05 - Design web pages with CSS = [https://github.com/Codingmasterfred/reading-notes/blob/88d17964f0abb59c0fae2910d693c43f1fb6b64d/102/Class05/README.md]
+
+Read: 06 - Dynamic web pages with JavaScript = []
+
 
