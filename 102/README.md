@@ -21,4 +21,4 @@ Read: 06 - Dynamic web pages with JavaScript = [https://github.com/Codingmasterf
 
 Read: 07 - Programming with JavaScript = [https://github.com/Codingmasterfred/reading-notes/blob/1d66d81e1ed1532a870f47f582a520f3c5bd4d3c/102/Class07/README.md]
 
-Read: 08 - Operators and Loops = []
+Read: 08 - Operators and Loops = [https://github.com/Codingmasterfred/reading-notes/blob/92a523bf55bcd735912c34a2848b79d3ffbb7626/102/Class08/README.md]
