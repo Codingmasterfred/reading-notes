@@ -19,4 +19,6 @@ Read: 05 - Design web pages with CSS = [https://github.com/Codingmasterfred/read
 
 Read: 06 - Dynamic web pages with JavaScript = [https://github.com/Codingmasterfred/reading-notes/blob/baed9eb8c75399ced63e88d8834749eb679042db/102/Class06/README.md]
 
-Read: 07 - Programming with JavaScript = []
+Read: 07 - Programming with JavaScript = [https://github.com/Codingmasterfred/reading-notes/blob/1d66d81e1ed1532a870f47f582a520f3c5bd4d3c/102/Class07/README.md]
+
+Read: 08 - Operators and Loops = []
