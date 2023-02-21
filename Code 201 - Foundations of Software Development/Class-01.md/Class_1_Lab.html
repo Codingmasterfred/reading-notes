@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: antiquewhite;
+
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Class 1 Lab</h1>
+    </header>
+    <main>
+        <p id="Q1">What is your name?</p><style>#Q1{color:aqua;}</style>
+        <p id="Q2">What is your age?</p><style>#Q2{color: red; }</style>
+        <p id="Q3">What is your pet name?</p><style>#Q3{color:green;}</style>
+        <p id="Q4">How are you feeling today?</p><style>#Q4{color:white;}</style>
+    </main>
+    <footer></footer>
+
+    <script>
+        let name = prompt("What is your name?");
+
+        alert("Hello, " + name);
+        console.log("Their name is " + name);
+
+        let age = prompt("What is your age?","number of age only");
+
+        alert("You are " + age + " years old!!");
+        console.log(age + ": This is " + name + " age ");
+
+        let PetName = prompt("What is your pet name?");
+
+        alert(PetName + " is a good name for a pet");
+        console.log(PetName + " : This is " + name + " pet name ");
+
+        let feeling = prompt("How are you feeling", "good or bad");
+        if(feeling =="good"){
+        alert("That's great to hear");
+        }else{
+            alert("I'm sorry to hear that");
+        }console.log(feeling + ": This is how " + name + " is feeling ");
+        if(feeling == "good"){
+            alert("Nice to meet you " + name + " my name is fredrick. " + "From my understanding you are " + age + " years old and have a pet name " + PetName + ". Once again its good to hear you are having a good day")
+
+        }else{
+            alert("Nice to meet you " + name + " my name is fredrick. " + "From my understanding you are " + age + "years old and have a pet name " + PetName + ". Once again I'm sorry to hear that you are having a bad day ")
+
+        }
+    </script>
+
+</body>
+</html>
