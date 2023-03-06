@@ -12,3 +12,5 @@ flex box can control an item in any direction and more directions.
 
 ### How does this topic connect with your long term goals?
 It can help me become a front end engineer.
+
+## Things I want to know more about
