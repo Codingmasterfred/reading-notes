@@ -7,7 +7,7 @@ It can keep data from the user as well as required a type of format such as for 
 
 ### List 5 form elements and explain their importance.
 HTML elements: <form>, <label>, <input>, <textarea>, and <button>.
-The form is the actual form element that every thing inside of the form goes inside of. label is the label for thr for in which in most cases the sentence or topic would be shown. The input is used for the use to input information. textarea is realated to input but textarea is make mostly for sentences of feedback or comment. Button creates the button to submit the form.
+The form is the actual form element that every thing inside of the form goes inside of. lThe HTML <label> element represents a caption or a label for an <input> element, a <select> element, a <textarea> element, or a <button> element. The input is used for the use to input information. textarea is realated to input but textarea is make mostly for sentences of feedback or comment. Button creates the button to submit the form.
 
 ### How would you describe events to a non-technical friend?
 events can be programmed to trigger certain actions or behaviors on the web page, such as displaying a message, updating the content, or playing a video.
