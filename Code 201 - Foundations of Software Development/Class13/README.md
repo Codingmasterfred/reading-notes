@@ -5,3 +5,6 @@ Sensitive information such as passwords and other personally identifiable inform
 
 ### Local storage can store what type of data? How would you convert it to that type before storing?
 Local storage can store string-based data, and if you want to store other types of data, you would need to convert them to a string format using methods like JSON.stringify() before storing them.
+
+
+## Things I want to know more about
