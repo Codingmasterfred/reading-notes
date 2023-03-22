@@ -15,3 +15,5 @@ A CSS animation allows the developer to create complex, multi-step animations wi
 Using CSS transitions can enhance the user experience by making web elements more engaging, dynamic and visually appealing, without adding much extra code or load time to the website.
 ### How this topic fit in with your long-term goals?
 I plan on becoming a frontend engineer therefore learning how to manipulate objects on the screen is an important for me to learn. 
+
+## Things I want to know more about
