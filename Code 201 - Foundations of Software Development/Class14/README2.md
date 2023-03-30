@@ -6,3 +6,5 @@ When I was in my last program. The teacher made sure it was an phycalogical safe
 
 ### What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
 Teams that operate with a high degree of psychological safety have a positive impact on their company and team members by promoting open communication, trust ,and  creativity.
+
+## Things I want to know more about
