@@ -16,3 +16,5 @@ In React, "props" is short for "properties," which are used to pass data from on
 To add properties to a component
 ### What is the flow of props?
 In React, props flow downwards from parent components to child components, and cannot be passed back up to the parent components
+
+## Things I want to know more about
