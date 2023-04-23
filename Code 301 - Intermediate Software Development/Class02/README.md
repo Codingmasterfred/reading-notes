@@ -1,20 +1,23 @@
-## Component-Based Architecture
+## React lifecycle
 
-### What is a “component”?
-A component is a set of code that is seperated, reusable, and complete a specific task
-### What are the characteristics of a component?
-a component is functional, reliable, efficient, and scalable,
+## #Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 
-### What are the advantages of using component-based architecture?
-It is more organized and efficient 
-### What is Props and How to Use it in React
-In React, "props" is short for "properties," which are used to pass data from one component to another
+## #What is the very first thing to happen in the lifecycle of React?
+The very first thing to happen in the lifecycle of React is the constructor method.
+### Put the following things in the order that they happen:componentDidMount, render, constructor, componentWillUnmount, React Updates
+The order of the React component lifecycle methods is: constructor, render, componentDidMount, React Updates, componentWillUnmount.
+### What does componentDidMount do?
+componentDidMount is a lifecycle method that is invoked immediately after a component is mounted or inserted into the DOM.
+ 
+## React State Vs Props
 
-### What is “props” short for?
-"properties,"
-### How are props used in React?
-To add properties to a component
-### What is the flow of props?
-In React, props flow downwards from parent components to child components, and cannot be passed back up to the parent components
+### What types of things can you pass in the props?
+In props, we can pass various types of data, such as strings, numbers, booleans, arrays, and objects.
+### What is the big difference between props and state?
+The main difference between props and state is that props are passed into a component, while state is managed within a component.
+### When do we re-render our application?
+Our application re-renders when there is a change in either the props or state of a component.
+### What are some examples of things that we could store in state?
+We could store various kinds of data in state, such as form input values, user authentication status, or information retrieved from an API.
 
-## Things I want to know more about
+## Things I want to know more about?
