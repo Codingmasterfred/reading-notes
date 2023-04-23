@@ -1,7 +1,7 @@
 ## React lifecycle
 
 ## #Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
-
+render
 ## #What is the very first thing to happen in the lifecycle of React?
 The very first thing to happen in the lifecycle of React is the constructor method.
 ### Put the following things in the order that they happen:componentDidMount, render, constructor, componentWillUnmount, React Updates
