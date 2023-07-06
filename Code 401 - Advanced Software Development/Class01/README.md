@@ -1,0 +1,2 @@
+## What is .Net ?
+.Net is an open source platform for developers to build applications, able to run languages such as F# C# and basic visual. There are also different platforms that .NET can access such as .Net Framework,.Net Core, and Xamarin/mono which is combined in the .Net Standard platform
